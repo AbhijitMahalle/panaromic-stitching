@@ -23,7 +23,7 @@ is then flattened to obtain a 64 × 1 vector.
 ![alt](https://github.com/sakshikakde/AutoPano/blob/main/Phase1/Results/Set1/pano01.png)
 ![alt](https://github.com/sakshikakde/AutoPano/blob/main/Phase1/Results/Set1/pano1001.png)
 
-## Instruction to run the code:
+## Instructions to run the code:
 - Change the location to the root directory      
 - Run the following command:
 ```
