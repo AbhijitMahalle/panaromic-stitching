@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Panorama image stitching
+# Panorama-image stitching
 The repository contains code to implement panaromic stitching using two approaches. First is the traditional method of image stitching using corner detection, Adaptive non-maximal suppression, feature descriptor, matching and RANSAC. The another is Deep Learning Approach where supervised and unsupervised approach is explored (HomographyNet).
 
 ## Phase 1: Traditional methood
