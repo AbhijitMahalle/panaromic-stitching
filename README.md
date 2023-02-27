@@ -23,7 +23,7 @@ is then flattened to obtain a 64 × 1 vector.
 ![alt](https://github.com/sakshikakde/AutoPano/blob/main/Phase1/Results/Set1/pano01.png)
 ![alt](https://github.com/sakshikakde/AutoPano/blob/main/Phase1/Results/Set1/pano1001.png)
 
-## Instructions to run the code:
+## Instruction to run the code:
 - Change the location to the root directory      
 - Run the following command:
 ```
@@ -31,7 +31,7 @@ python3 Wrapper.py --BasePath ./Phase1/ --ImagesFolder Data/Train/Set3 --SaveFol
 ```
 
 ## Parameters 
-- BasePath : Location for Phase 1. Eg. /home/sakshi/courses/CMSC733/sakshi_p1/Phase1/
+- BasePath : Location for Phase 1. Eg. /home/abhijit/courses/CMSC733/sakshi_p1/Phase1/
 - ImagesFolder: Location for image folder relative to the BasePath. Eg Data/Test/TestSet2
 - SaveFolderName: Location where you want to save the results relativ BasePath. Eg. Code/Results/TestSet2
 - ShowImages: If you want to view the step outputs. Set as False by default
