@@ -1,17 +1,3 @@
-"""
-CMSC733 Spring 2020: Classical and Deep Learning Approaches for
-Geometric Computer Vision
-Project1: MyAutoPano: Phase 1 Starter Code
-
-Author(s): 
-Sakshi Kakde (sakshi@umd.edu) 
-M.Eng. Robotics,
-University of Maryland, College Park
-
-Gokul Hari (hgokul@umd.edu) 
-M.Eng. Robotics,
-University of Maryland, College Park
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
